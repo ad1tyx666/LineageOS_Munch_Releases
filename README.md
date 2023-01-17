@@ -22,7 +22,7 @@ I am building this LOS rom for POCO F4 / Redmi K40s, OTA updates are not working
 4. adb sideload MindTheGapps-13.0.0-arm64.zip
 5. now reboot
 
-## Instructions to update for existing PE users -
+## Instructions to update for existing users -
 1. reboot to recovery
 2. select adb sideload
 3. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
