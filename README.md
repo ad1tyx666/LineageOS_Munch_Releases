@@ -10,13 +10,13 @@ I am building this LOS rom for POCO F4 / Redmi K40s, OTA updates are not working
 6. wipe data because you are changing rom
 7. flash global fw V13.0.5.0.SLMMIXM
 8. select adb sideload
-9. adb sideload ProjectElixir_3.3_munch-xxxxxxx.zip
+9. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
 10. now reboot
 
 ## Instructions to install gapps
 1. reboot to recobvery
 2. select adb sideload
-3. adb sideload 
+3. wipe data because you are installing gapps
 4. adb sideload MindTheGapps-13.0.0-arm64.zip
 5. now reboot
 
