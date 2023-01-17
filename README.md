@@ -1,13 +1,14 @@
 ## About -
-I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are working but you can always update by dirty flashing new build without wiping anything. I will try my best to keep this rom updated.
+I am building this LOS rom for POCO F4 / Redmi K40s, OTA updates are not working but you can always update by dirty flashing new build without wiping anything. I will try my best to keep this rom updated.
                                            
  ## Instructions to flash -
 1. Have unlocked bootloader
 2. adb reboot fastboot
-4. fastboot flash boot boot.img
-5. fastboot flash vendor_boot vendor_boot.img
-6. reboot to recovery now
-7. wipe data because you are changing rom
+3. fastboot flash boot boot.img
+4. fastboot flash vendor_boot vendor_boot.img
+5. reboot to recovery now
+6. wipe data because you are changing rom
+7. flash global fw V13.0.5.0.SLMMIXM
 8. select adb sideload
 9. adb sideload ProjectElixir_3.3_munch-xxxxxxx.zip
 10. now reboot
