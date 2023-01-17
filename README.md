@@ -1,4 +1,4 @@
-![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/Banner.jpg)
+![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
 
 ## About -
 I am building this LOS rom for POCO F4 / Redmi K40s, OTA updates are not working but you can always update by dirty flashing new build without wiping anything. I will try my best to keep this rom updated.
