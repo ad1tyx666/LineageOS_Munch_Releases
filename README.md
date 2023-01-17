@@ -12,6 +12,13 @@ I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are working but 
 9. adb sideload ProjectElixir_3.3_munch-xxxxxxx.zip
 10. now reboot
 
+## Instructions to install gapps
+1. reboot to recobvery
+2. select adb sideload
+3. adb sideload 
+4. adb sideload MindTheGapps-13.0.0-arm64.zip
+5. now reboot
+
 ## Instructions to update for existing PE users -
 1. reboot to recovery
 2. select adb sideload
