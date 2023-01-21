@@ -1,0 +1,2 @@
+• January security patch
+• Synced latest changes from upstream lineage ROM source
