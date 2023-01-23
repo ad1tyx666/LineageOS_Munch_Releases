@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": 1674356310,
-      "filename": "lineage-20.0-20230121-UNOFFICIAL-munch.zip",
+      "datetime": 1674460428,
+      "filename": "lineage-20.0-20230123-UNOFFICIAL-munch.zip",
       "id": "9faea3672d195c9a801e316199c7ddee84de46e9a8df3c1a6272f4565bc17407",
       "romtype": "UNOFFICIAL",
       "size": 1271997065,
-      "url": "https://github.com/Vincent4440/LineageOS_Munch_Releases/releases/download/20.0-20230121/lineage-20.0-20230217-UNOFFICIAL-munch.zip",
+      "url": "https://github.com/Vincent4440/LineageOS_Munch_Releases/releases/download/20.0-20230123/lineage-20.0-20230217-UNOFFICIAL-munch.zip",
       "version": "20.0"
     }
   ]
