@@ -1,4 +1,6 @@
 • January security patch
 • Synced latest changes from upstream lineage ROM source
-• Switched to Vinc3nt-X-Kernel
+• Switched to Nexus Kernel
 • Fixed refresh rate issue
+• Passed SafetyNet
+• lot of more improvements which i cant remember
