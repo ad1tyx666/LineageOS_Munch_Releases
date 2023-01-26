@@ -27,7 +27,7 @@ I am building LOS for POCO F4 / Redmi K40s, OTA updates are not working but you 
 3. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
 
 ## Downloads -
-https://github.com/Vinc2nt/LineageOS_Munch_Releases/releases
+https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
 
 ## Donate -
 <a href="https://paypal.me/vinc3nt1/"><img src="blue.svg" height="40"></a>  
