@@ -1,6 +1,6 @@
 • January security patch
 • Synced latest changes from upstream lineage ROM source
-• Switched to Noxious Kernel
+• Switched to Realking Kernel
 • Fixed refresh rate issue
 • Passed SafetyNet
 • lot of more improvements which i cant remember
