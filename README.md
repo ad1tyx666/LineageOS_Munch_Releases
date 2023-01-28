@@ -11,7 +11,7 @@
 8. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
 9. now reboot
 
-## Instructions to install gapps
+## Instructions to install gapps -
 1. reboot to recovery
 2. select adb sideload
 3. wipe data because you are installing gapps
