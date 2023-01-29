@@ -4,3 +4,6 @@
 • SystemUI: Reduce screenshot dismiss delay
 • Settings: Show memory usage in app info
 • Implemented Signature Spoofing
+• Add support for MiuiCamera
+• Added KernelSU to NOXIOUS-X
+
