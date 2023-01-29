@@ -1,6 +1,6 @@
 • February security patch
 • Synced latest changes from upstream lineage ROM source
 • Made changes to frameworks/base & system/core for safetynet fix rather than just using ih8sn
-• SystemUI: Reduce screenshot dismiss delay to 3 seconds
+• SystemUI: Reduce screenshot dismiss delay
 • Settings: Show memory usage in app info
 • Implemented Signature Spoofing
