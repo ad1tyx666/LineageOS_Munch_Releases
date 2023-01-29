@@ -1,4 +1,4 @@
-![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner1.jpg)
+![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
 
  ## Instructions to flash -
 1. Have unlocked bootloader
