@@ -1,7 +1,7 @@
 • January security patch
 • Synced latest changes from upstream lineage ROM source
-• Switched to Realking Kernel
+• Switched to Noxious Kernel
 • Fixed refresh rate issue
 • Passed SafetyNet
-• lot of more improvements which i cant remember
+• Switched to prelude clang
 • Added MindTheGapps
