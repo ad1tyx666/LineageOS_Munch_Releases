@@ -1,4 +1,3 @@
-• Made changes to frameworks/base & system/core for safetynet fix
+• Made changes to frameworks/base & system/core for safetynet fix rather than just using ih8sn
 • SystemUI: Reduce screenshot dismiss delay to 3 seconds
-• Fingerprints: Increase MAX_FAILED_ATTEMPTS
 • Settings: Show memory usage in app info
