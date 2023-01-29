@@ -3,3 +3,4 @@
 • Made changes to frameworks/base & system/core for safetynet fix rather than just using ih8sn
 • SystemUI: Reduce screenshot dismiss delay to 3 seconds
 • Settings: Show memory usage in app info
+• Implemented Signature Spoofing
