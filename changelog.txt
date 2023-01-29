@@ -1,7 +1,4 @@
-• January security patch
-• Synced latest changes from upstream lineage ROM source
-• Switched to Noxious Kernel
-• Fixed refresh rate issue
-• Passed SafetyNet
-• Switched to prelude clang
-• Added MindTheGapps
+• Made changes to frameworks/base & system/core for safetynet fix
+• SystemUI: Reduce screenshot dismiss delay to 3 seconds
+• Fingerprints: Increase MAX_FAILED_ATTEMPTS
+• Settings: Show memory usage in app info
