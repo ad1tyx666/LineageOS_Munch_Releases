@@ -21,6 +21,4 @@ https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
 
 ## Donate -
 <a href="https://paypal.me/vinc3nt1/"><img src="blue.svg" height="40"></a>  
-or
-UPI: cfmer.22610000919291@icici (Indian Users)
 If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
