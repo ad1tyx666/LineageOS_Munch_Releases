@@ -14,7 +14,7 @@
 ## Instructions to update for existing users -
 1. reboot to recovery
 2. select adb sideload
-3. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
+3. adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip
 
 ## Downloads -
 https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
