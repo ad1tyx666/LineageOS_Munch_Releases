@@ -8,13 +8,15 @@
 5. fastboot reboot recovery
 6. Click on "Factory Reset" on Recovery because you are changing rom
 7. Click on "Apply Update"
-8. Type " adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip " in you cli
+8. Type "adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip" in you cli
 9. now reboot
 
 ## Instructions to update for existing users -
-1. reboot to recovery
-2. select adb sideload
-3. adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip
+1. adb reboot fastboot
+2. fastboot reboot recovery
+3. Click on "Apply Update"
+4. Type "adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip" in you cli
+5. Now reboot
 
 ## Downloads -
 https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
