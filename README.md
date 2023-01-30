@@ -5,10 +5,10 @@
 2. adb reboot fastboot
 3. fastboot flash boot boot.img
 4. fastboot flash vendor_boot vendor_boot.img
-5. reboot to recovery now
-6. wipe data because you are changing rom
-7. select adb sideload
-8. adb sideload lineage-20.0-xxxx-UNOFFICIAL-munch.zip
+5. fastboot reboot recovery
+6. Click on "Factory Reset" on Recovery because you are changing rom
+7. Click on "Apply Update"
+8. Type " adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip " in you cli
 9. now reboot
 
 ## Instructions to update for existing users -
