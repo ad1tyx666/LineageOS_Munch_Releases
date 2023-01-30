@@ -6,6 +6,6 @@
 • Implemented Signature Spoofing
 • Add support for MiuiCamera
 • Added KernelSU
-• Switched to NoKernel
+• Switched to NoKernel with prelude clang
 • Enable V-Sync for CPU rendered Apps
 
