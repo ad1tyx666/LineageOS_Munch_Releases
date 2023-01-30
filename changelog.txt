@@ -6,4 +6,4 @@
 • Implemented Signature Spoofing
 • Add support for MiuiCamera
 • Added KernelSU to NOXIOUS-X
-
+• Switched to NoKernel
