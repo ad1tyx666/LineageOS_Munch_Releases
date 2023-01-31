@@ -11,4 +11,4 @@
 • disable CONFIG_LOCALVERSION
 • disable CONFIG_FHANDLE
 • disable CONFIG_AUDITSYSCALL
-•  
+• replace Smooth Display with Min & Peak RR menu 
