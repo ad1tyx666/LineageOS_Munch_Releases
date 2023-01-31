@@ -1,11 +1,14 @@
-• February security patch
 • Synced latest changes from upstream lineage ROM source
 • Made changes to frameworks/base & system/core for safetynet fix rather than just using ih8sn
 • SystemUI: Reduce screenshot dismiss delay
 • Settings: Show memory usage in app info
 • Implemented Signature Spoofing
-• Add support for MiuiCamera
-• Added KernelSU
-• Switched to NoKernel
+• Switched to Nexus Kernel
 • Enable V-Sync for CPU rendered Apps
 • Switched to prelude clang
+• Added KernelSU Support 
+• sm8250-common: Increase reserved partition size for builds
+• disable CONFIG_LOCALVERSION
+• disable CONFIG_FHANDLE
+• disable CONFIG_AUDITSYSCALL
+•  
