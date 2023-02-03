@@ -19,7 +19,7 @@
 5. Now reboot
 
 ## Downloads -
-https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
+https://mega.nz/folder/7uxQxTSL#PDtAo7tzH9WMDUh3RSEtWg
 
 ## Donate -
 <a href="https://paypal.me/vinc3nt0/"><img src="blue.svg" height="40"></a>  
