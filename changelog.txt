@@ -12,5 +12,4 @@
 • disable CONFIG_FHANDLE
 • disable CONFIG_AUDITSYSCALL
 • replace Smooth Display with Min & Peak RR menu 
-• Fixed Battery Drain
 • include PixelLauncherMod during build
