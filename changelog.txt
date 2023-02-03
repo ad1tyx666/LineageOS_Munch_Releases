@@ -3,12 +3,14 @@
 • SystemUI: Reduce screenshot dismiss delay
 • Settings: Show memory usage in app info
 • Implemented Signature Spoofing
-• Switched to Nexus Kernel
+• Switched to PixelExperience Kernel & added support for munch
 • Enable V-Sync for CPU rendered Apps
 • Switched to prelude clang
-• Added KernelSU Support 
+• Added KernelSU Support ( seperate img would be provided on support group )
 • sm8250-common: Increase reserved partition size for builds
 • disable CONFIG_LOCALVERSION
 • disable CONFIG_FHANDLE
 • disable CONFIG_AUDITSYSCALL
 • replace Smooth Display with Min & Peak RR menu 
+• Fixed Battery Drain
+• include PixelLauncherMod during build
