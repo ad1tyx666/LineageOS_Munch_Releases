@@ -1,6 +1,6 @@
 ![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
 
- ## Instructions to flash -
+ ## Instructions to flash using adb -
 1. Have unlocked bootloader
 2. adb reboot fastboot
 3. fastboot flash boot boot.img
@@ -11,7 +11,14 @@
 8. Type "adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip" in you cli
 9. now reboot
 
-## Instructions to update for existing users -
+ ## Instructions to flash using twrp/ofox -
+1. Have unlocked bootloader
+2. Reboot to ofox/twrp
+3. Flash rom
+4. Format data
+5. Now reboot
+
+ ## Instructions to update for existing users -
 1. adb reboot fastboot
 2. fastboot reboot recovery
 3. Click on "Apply Update"
