@@ -1,5 +1,9 @@
 ![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
 
+ ## Notes -
+1. Firmware is built-in
+2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM, dirty flash works if updating from an older build of the same Android version and is by the same maintainer.
+
  ## Instructions to flash using adb -
 1. Have unlocked bootloader
 2. adb reboot fastboot
