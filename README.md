@@ -1,6 +1,6 @@
 ![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
 
- ## Notes -
+ ## Note !! -
 1. Firmware is built-in
 2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM.
 
