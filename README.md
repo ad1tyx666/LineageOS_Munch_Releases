@@ -2,8 +2,7 @@
 
  ## Notes -
 1. Firmware is built-in
-2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM, dirty flash works if updating from an older build of the same     
-   Android version and is by the same maintainer.
+2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM.
 
  ## Instructions to flash using adb -
 1. Have unlocked bootloader
