@@ -30,7 +30,7 @@
 5. Now reboot
 
 ## Downloads -
-https://mega.nz/folder/7uxQxTSL#PDtAo7tzH9WMDUh3RSEtWg
+https://mega.nz/folder/KnAnTKAS#aCZio7-odYDCc5q-WKJ5Xw
 
 ## Donate -
 <a href="https://paypal.me/vinc3nt0/"><img src="blue.svg" height="40"></a>  
