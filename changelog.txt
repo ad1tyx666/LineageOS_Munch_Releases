@@ -1,14 +1,8 @@
+• February Patch
 • Synced latest changes from upstream lineage ROM source
-• Made changes to frameworks/base & system/core for safetynet fix rather than just using ih8sn
-• SystemUI: Reduce screenshot dismiss delay
-• Settings: Show memory usage in app info
-• Implemented Signature Spoofing, dont know how to enable
-• Switched to PixelExperience Kernel & added support for munch
-• Enable V-Sync for CPU rendered Apps
-• Switched to prelude clang
-• Added KernelSU Support ( seperate img would be provided on support group )
-• sm8250-common: Increase reserved partition size for builds
-• disable CONFIG_LOCALVERSION
-• disable CONFIG_FHANDLE
-• disable CONFIG_AUDITSYSCALL
-• replace Smooth Display with Min & Peak RR menu 
+• Switched back to immensity-x
+• Enable some governors for testing purpose
+• KernelSU IMG available at support group
+• implement Signature spoofing from lineage4microg
+• Improve battery efficiency 
+• Fix Bugs
