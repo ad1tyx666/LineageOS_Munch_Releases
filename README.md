@@ -1,4 +1,4 @@
-![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
+![PixelExtended](https://github.com/Vincent4440/PixelExtended_Munch_Releases/raw/main/banner.png)
 
  ## Note !! -
 1. Firmware is built-in
