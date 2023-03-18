@@ -1,4 +1,4 @@
-![source](https://github.com/Vincent4440/LineageOS_Munch_Releases/raw/main/banner.jpg)
+![source](https://github.com/Vincent4440/LineageOS_Munch_Releases/raw/main/picture.png)
 
  ## Note !! -
 1. Firmware is built-in
