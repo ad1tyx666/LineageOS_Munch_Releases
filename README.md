@@ -30,9 +30,7 @@
 5. Now reboot
 
 ## Downloads -
-https://mega.nz/file/OnAiAIBS#4k3-ZglsGSHN45o_IleGy0tvtyETnqxwi8Chx-dEZSs
-or
-https://github.com/Vincent4440/PixelExtended_Munch_Releases/releases
+https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
 
 ## Donate -
 <a href="https://paypal.me/vinc3nt0/"><img src="blue.svg" height="40"></a>  
