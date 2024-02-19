@@ -1,6 +1,14 @@
 ![source](https://github.com/Vincent4440/LineageOS_Munch_Releases/raw/main/picture.png)
 
- ## Note !! -
+ ## Introduction -
+1. LineageOS for munch seamlessly integrates LineageOS with our device "munch"
+2. This custom rom introduces subtle yet impactful customizations made to the source for an enhanced user experience
+3. The project prioritizes open source development, encouraging community collaboration
+4. Maintains a commitment to a clean and uncluttered ROM, avoiding unnecessary bloatware
+5. Striking a balance between customization and simplicity, the ROM offers a streamlined Android experience
+6. Assurance of performance, stability, and user satisfaction without compromising the LineageOS essence
+
+ ## Note -
 1. Firmware is built-in
 2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM.
 
