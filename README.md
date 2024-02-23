@@ -41,5 +41,6 @@
 https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
 
 ## Donate -
-<a href="https://www.paypal.me/vinc3ntexe/"><img src="blue.svg" height="40"></a>  
+<a href="https://www.buymeacoffee.com/vinc3nt0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=vinc3nt0&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
