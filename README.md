@@ -40,6 +40,9 @@
 ## Downloads -
 https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
 
+## Source Code -
+You can find the source code for the following on [lineage4munch](https://github.com/lineage4munch)
+
 ## Donate -
 <a href="https://www.buymeacoffee.com/ad1tyx666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ad1tyx666&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
